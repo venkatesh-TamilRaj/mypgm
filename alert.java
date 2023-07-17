@@ -16,6 +16,7 @@ public class alert {
 		alert.sendKeys("venkat");
 		String text = alert.getText();
 		System.out.println(text);
+		System.out.println("venkatesh");
 	
 		
 		
